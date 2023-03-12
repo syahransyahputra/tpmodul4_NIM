@@ -1,0 +1,15 @@
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\bin\Debug\net6.0\tpmodul4_1302210021.exe
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\bin\Debug\net6.0\tpmodul4_1302210021.deps.json
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\bin\Debug\net6.0\tpmodul4_1302210021.runtimeconfig.json
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\bin\Debug\net6.0\tpmodul4_1302210021.dll
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\bin\Debug\net6.0\tpmodul4_1302210021.pdb
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.csproj.AssemblyReference.cache
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.AssemblyInfoInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.AssemblyInfo.cs
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.csproj.CoreCompileInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.dll
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\refint\tpmodul4_1302210021.dll
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.pdb
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\tpmodul4_1302210021.genruntimeconfig.cache
+C:\kuliah\semester 4\KPL (praktik)\TP\tpmodul4_1302210021\tpmodul4_1302210021\obj\Debug\net6.0\ref\tpmodul4_1302210021.dll
